@@ -4,6 +4,7 @@ Hello, I'm Likman Abdullah, a data driven proffessional
 
 ## Skills
 Data Analytics - Power BI, Excel, SQL and Tableau
+![image](Hospital Dashboard.PNG]
 
 ## Projects
 Hospital Admission Analysis
